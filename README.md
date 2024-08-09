@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-<img src="vendors/img/preview.png" alt="Logo" width="1280" height="832">
+<img src="vendors/img/preview.png" alt="Logo" width="800" height="600">
 
 <h3 align="center">Digive</h3>
 
@@ -17,4 +17,4 @@
 
 Imam Bagus Nugroho - [@instagram_handle](https://instagram.com/imambagusnugroho) - imambagus9864@gmail.com
 
-Project Link: [https://imam-bagus.github.io/digive-comingsoon/](https://imam-bagus.github.io/digive-comingsoon/)
+Link: [https://imam-bagus.github.io/digive-comingsoon/](https://imam-bagus.github.io/digive-comingsoon/)
