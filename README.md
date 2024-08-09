@@ -7,7 +7,8 @@
 <h3 align="center">Digive</h3>
 
   <p align="center">
-    Give is an abbreviation of Digital give. Where creators/influencers can receive gifts from their supporters.
+    Digive is short for Digital Give. Platform where creators/influencers can receive gifts from their supporters.
+    <br/> The project is currently under development and will be released soon.
   </p>
 </div>
 
