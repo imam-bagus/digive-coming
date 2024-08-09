@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-<img src="vendors/img/preview.png" alt="Logo" width="800" height="600">
+<img src="vendors/img/preview.png" alt="Logo" width="500" height="200">
 
 <h3 align="center">Digive</h3>
 
