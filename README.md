@@ -15,6 +15,6 @@
 
 ## Contact
 
-Imam Bagus Nugroho - [@instagram_handle](https://instagram.com/imambagusnugroho) - imambagus9864@gmail.com
+Imam Bagus Nugroho - imambagus9864@gmail.com
 
 Link: [https://imam-bagus.github.io/digive-comingsoon/](https://imam-bagus.github.io/digive-comingsoon/)
