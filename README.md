@@ -18,4 +18,4 @@
 
 Imam Bagus Nugroho - imambagus9864@gmail.com
 
-Link: [https://imam-bagus.github.io/digive-comingsoon/](https://imam-bagus.github.io/digive-comingsoon-retro/)
+Link: [https://imam-bagus.github.io/digive-comingsoon-retro/](https://imam-bagus.github.io/digive-comingsoon-retro/)
